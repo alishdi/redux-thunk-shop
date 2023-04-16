@@ -1,0 +1,10 @@
+.img{
+    width: 70px;
+    height: 70px;
+    margin-right: 100px;
+}
+.sticky{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1000;
+}
